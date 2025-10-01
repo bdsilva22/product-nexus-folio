@@ -7,7 +7,7 @@ const ServicesSection = () => {
     {
       tier: "Essential PM",
       icon: <Target className="w-8 h-8" />,
-      price: "$8,000",
+      price: "$X,XXX",
       period: "/month",
       description: "Core product management to get your product development on track",
       features: [
@@ -24,7 +24,7 @@ const ServicesSection = () => {
     {
       tier: "Strategic PM",
       icon: <Zap className="w-8 h-8" />,
-      price: "$15,000",
+      price: "$X,XXX",
       period: "/month", 
       description: "Full-service product leadership to scale your financial products",
       features: [
@@ -43,7 +43,7 @@ const ServicesSection = () => {
     {
       tier: "Transformation PM",
       icon: <Rocket className="w-8 h-8" />,
-      price: "$25,000",
+      price: "$X,XXX",
       period: "/month",
       description: "End-to-end product transformation for rapid scaling and market leadership",
       features: [
