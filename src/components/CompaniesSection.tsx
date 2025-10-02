@@ -1,14 +1,17 @@
+import etradeLogo from "@/assets/logos/ET logo.png";
+import morganLogo from "@/assets/logos/MS Logo.png";
+
 const CompaniesSection = () => {
   const companies = [
     {
       name: "E*TRADE",
       description: "Senior Product Manager - Banking & Deposit Systems",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/E-Trade_logo.svg/320px-E-Trade_logo.svg.png"
+      logo: etradeLogo
     },
     {
       name: "Morgan Stanley",
       description: "Senior Product Manager - Personal Finance & Content Tools", 
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Morgan_Stanley_Logo_2021.svg/320px-Morgan_Stanley_Logo_2021.svg.png"
+      logo: morganLogo
     }
   ];
 
