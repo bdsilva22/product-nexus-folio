@@ -1,5 +1,5 @@
-import etradeLogo from "@/assets/logos/ET logo.png";
-import morganLogo from "@/assets/logos/MS Logo.png";
+import etradeLogo from "@/assets/logos/ET-logo.png";
+import morganLogo from "@/assets/logos/MS-Logo.png";
 
 const CompaniesSection = () => {
   const companies = [
